@@ -1,2 +1,28 @@
-# MindBridge---Mental-Health-Workshop-Management-System
-A Django web app for managing mental health workshops where users can register, log in, enroll in sessions, and submit feedback, while admins can create and manage workshops with full details.
+# MindBridge - Mental Health Workshop Management System
+
+## 📌 Overview
+MindBridge is a Django-based web application designed to organize and manage mental health workshops. It allows users to register, enroll in workshops, and provide feedback after attending sessions.
+
+## 🚀 Features
+- User registration and login system
+- Workshop listing with images, date, time, and speaker
+- Enrollment system with seat management
+- “My Workshops” dashboard for users
+- Feedback system after attending workshops
+- Admin panel for managing workshops
+- Responsive UI using Bootstrap
+
+## 🛠️ Tech Stack
+- Python
+- Django
+- SQLite
+- HTML, CSS, Bootstrap
+
+## 📸 Screenshots
+(Add screenshots here)
+
+## ⚙️ Setup Instructions
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/mindbridge.git
