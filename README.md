@@ -18,8 +18,3 @@ MindBridge is a Django-based web application designed to organize and manage men
 - SQLite
 - HTML, CSS, Bootstrap
 
-## ⚙️ Setup Instructions
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/mindbridge.git
